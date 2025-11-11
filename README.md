@@ -1,2 +1,3 @@
-# TalentQ
-social media app to connect people with similar interests to learn and evolve.
+# Auth Server
+Simple express server for sign up with verification code.
+
